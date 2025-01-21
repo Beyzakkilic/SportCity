@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "Nike Air Max",
+    "description": "Spor Ayakkabı, Siyah/Beyaz",
+    "price": "2.500 TL",
+    "category": "Ayakkabı",
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": "2",
+    "name": "Adidas Tiro Eşofman",
+    "description": "Erkek Eşofman Takımı",
+    "price": "2.222 TL",
+    "category": "Giyim",
+    "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": "3",
+    "name": "Under Armour T-Shirt",
+    "description": "Nefes Alabilir Kumaş",
+    "price": "899 TL",
+    "category": "Giyim",
+    "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": "4",
+    "name": "Wilson Basketbol Topu",
+    "description": "NBA Resmi Maç Topu",
+    "price": "1.999 TL",
+    "category": "Basketbol",
+    "imageUrl": "https://images.unsplash.com/photo-1519861155730-0b5fbf0dd889?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": "5",
+    "name": "Puma Futbol Topu",
+    "description": "FIFA Onaylı Maç Topu",
+    "price": "1.499 TL",
+    "category": "Ekipman",
+    "imageUrl": "https://images.unsplash.com/photo-1614632537190-23e4146777db?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": "6",
+    "name": "Nike Pro Şort",
+    "description": "Erkek Spor Şortu",
+    "price": "749 TL",
+    "category": "Giyim",
+    "imageUrl": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": "7",
+    "name": "Delta Basketbol Topu",
+    "description": "Delta Basketbol Topu Pro X 3 Numara",
+    "price": "750 TL",
+    "category": "Basketbol",
+    "imageUrl": "https://bikestore.becdn.net/assets/images/product/delta-kaucuk-basketbol-topu-pro-x-3-numara-9315-basketbol-topu-delta-537425-29-o_53819175.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Fenerbahce 2025 Sezon Formasi",
+    "description": "Fenerbahce 2025 yeni sezon formasi cubuklu",
+    "price": "2.000 TL",
+    "category": "Giyim",
+    "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1412/product/media/images/prod/QC/20240710/16/907520cf-9b58-348b-836b-eb6b19cfcd5a/1_org_zoom.jpg"
+  }
+]
