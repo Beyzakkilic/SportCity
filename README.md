@@ -5,7 +5,7 @@
 [SportCity insanların, kişisel gelişimini yapmak istediği alışveriş için kurulan bir mobil uygulamadır, amacı insanların uygulama içerisinde spor eşyaları, spor içecekleri, antrenman eşyaları gibi ürünleri satın alması için kuruldu]
 
 ## Ekibimiz
-- **Danışman:** Keyvan Arasteh(https://github.com/keyvanarasteh)
+- **Danışman:** [Keyvan Arasteh](https://github.com/keyvanarasteh)
 - **Takım Lideri** Yasin KARAGÖZ [Github](https://github.com/Ysnkrgzz)
 - **Takım Üyeleri:**
     - Yusuf Taha ORHAN [Github](https://github.com/yusuforhan000)
@@ -17,7 +17,6 @@
 - [Kolay kullanım]
 - [Güvenli alışveriş]
 - [Gözleri yormayacak uygun renk paleti]
-- []
 
 ## Kullanılan Teknolojiler
 - Flutter
